@@ -14,9 +14,13 @@ This project is based on the following open-source project:
 ## Requirements
 
 python==3.9.18
+
 CUDA==11.3
+
 torch==1.10.1+cu113
+
 torchaudio==0.10.1+cu113
+
 torchvision==0.11.2+cu113
 
 ## Datasets
@@ -42,7 +46,7 @@ File Structure:
 ## Get Start
 ### a、Settings
 ```python
-	Cuda            = True
+    Cuda            = True
     distributed     = False
     sync_bn         = False
     fp16            = False
