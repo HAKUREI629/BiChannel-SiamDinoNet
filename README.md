@@ -23,20 +23,20 @@ torchvision==0.11.2+cu113
 Deepship: **(https://github.com/irfankamboh/DeepShip)**
 File Structure:
 ```
-	- dataset:
-		-feature1
-			-train:
-				- ship1:
-					- 1_0.npy
-					- 1_1.npy
-					- 1_2.npy
-					...
-				- ship2
-				- ship3
-				...
-			-valid
-		- feature2
-		...
+- dataset:
+ -feature1:
+  -train:
+   - ship1:
+    - 1_0.npy
+    - 1_1.npy
+    - 1_2.npy
+    ...
+   - ship2
+   - ship3
+   ...
+ -valid
+ - feature2
+ ...
 ```
 
 ## Get Start
