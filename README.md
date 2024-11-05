@@ -34,7 +34,7 @@ File Structure:
    - ship2
    - ship3
    ...
- -valid
+  -valid
  - feature2
  ...
 ```
